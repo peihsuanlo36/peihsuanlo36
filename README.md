@@ -1,6 +1,6 @@
 
 # Profile
-- Sherry Lo from NCCU MIS,Taiwan 
+- M.S in NCCU MIS,Taiwan 
 - Interested in business data analytics
 - some testings again!
 
